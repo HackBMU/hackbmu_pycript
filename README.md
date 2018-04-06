@@ -1,2 +1,5 @@
 # HackBMU Team Pycript
-* [Ashish](http://github.com/ashishgulati71)
+* [Ashish Gulati](http://github.com/ashishgulati71)
+*Shubham Aggarwal
+*Abhishek Bansal
+*Nishant
